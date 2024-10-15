@@ -9,8 +9,11 @@ Overview:- This project aims to analyze medical data related to heart disease to
 Key Features of this Project:-
 
 ETL Process: Extract, transform, and load heart disease diagnostic data for analysis.
+
 Exploratory Data Analysis (EDA): Analyze data on heart disease rates by gender, age, and other factors using Python.
+
 Data Visualization: Create meaningful visualizations and dashboards using Tableau or Power BI to highlight key findings.
+
 Insights and Findings: Uncover key metrics to support healthcare decision-making.
 
 Problem Statement:-
